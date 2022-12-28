@@ -1,0 +1,14 @@
+.simple, .fancy {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 28px;
+}
+
+.simple {
+    background-color: black;
+    color: white
+}
+
+.fancy {
+    background-color: blueviolet;
+    color: black;
+}
