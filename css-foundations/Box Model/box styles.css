@@ -6,11 +6,17 @@
 
 .box-one {
     background-color:#eb5757;
-    padding: 0;
-    border: 0 solid #9b51e0;
+    padding: 20px;
+    border: 20px solid #9b51e0;
+    margin: 60px;
+    height: 100px;
+    width: 100px;
 }
 
 .box-two {
     background-color: skyblue;
-    border: 0 solid green;
+    border: 20px solid green;
+    margin: 60px;
+    height: 100px;
+    width: 100px;
 }
