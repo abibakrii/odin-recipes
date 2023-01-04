@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+.box-one {
+    background-color:#eb5757;
+    padding: 0;
+    border: 0 solid #9b51e0;
+}
+
+.box-two {
+    background-color: skyblue;
+    border: 0 solid green;
+}
