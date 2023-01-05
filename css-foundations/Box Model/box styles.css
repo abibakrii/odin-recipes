@@ -27,22 +27,22 @@ span.a {
     height: 100px;
     padding: 5px;
     border: 1px solid blue;  
-    background-color: yellow; 
+    background-color: rgb(255, 0, 255); 
   }
   
   span.b {
     display: inline-block;
-    width: 100px;
+    width: 150px;
     height: 100px;
-    padding: 5px;
+    padding: 10px;
     border: 1px solid blue;    
-    background-color: yellow; 
+    background-color: rgb(0, 255, 136); 
   }
   
   span.c {
     display: block;
-    width: 100px;
+    width: 150px;
     height: 100px;
-    padding: 5px;
+    padding: 10px;
     border: 1px solid blue;    
-    background-color: yellow; 
+    background-color: rgb(255, 94, 0); 
