@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .page {
@@ -24,7 +26,6 @@
 
 .sidebar {
     float: left;
-    /* margin: 0 auto; */
     width: 200px;
     height: 300px;
     background-color: #F09A9D;
@@ -48,7 +49,7 @@
     margin-bottom: 20px;
 }
 
-p {
+.content p {
     font-size: 13px;
     line-height: 1.6em;
     font-family: 'Century';
@@ -75,4 +76,13 @@ p {
     margin: 25px;
     border-radius: 40px;
     background-color: #D6E9FE;
+}
+
+.username {
+    margin-top: 30px;
+}
+
+.comment {
+    margin: 10px;
+    overflow: hidden;
 }
